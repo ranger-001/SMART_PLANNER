@@ -27,11 +27,11 @@ import UserManagement from "./pages/UserManagement";
 // Feedback pages
 import Feedback from "./pages/Feedback";
 import FeedbackForm from "./pages/FeedbackForm";
-import MyFeedback from "./pages/MyFeedback";
+import MyFeedback from "./pages/Myfeedback";
 
 // AI Recommendations
-import AIRecommendations from "./pages/AIRecommendations";
-import AIPredictivePlanning from "./pages/AIPredictivePlanning";
+import AIRecommendations from "./pages/AiRecommendations";
+import AIPredictivePlanning from "./pages/AiPredictivePlanning";
 
 // Reports & Analytics
 import Reports from "./pages/Report";
